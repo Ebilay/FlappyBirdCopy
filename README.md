@@ -8,7 +8,7 @@ Engelleri aşma
 Puanlama sistemi (dahil değildir, ancak kolayca uygulanabilir)
 Çarpışma algılama ve oyun sonu durumu
 Ses efektleri (çırpma kanatları, çarpışma sesi)
-Basit animasyon (dahil değildir, ancak kolayca uygulanabilir)
+Basit animasyon (kolayca uygulanabilir)
 Gereklilikler:
 
 Unity game engine (herhangi bir sürüm)
